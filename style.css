@@ -1,0 +1,25 @@
+h1{ color: #00b33c; /* tag para cor */
+  
+}
+h2{ color: #ff99ff;
+    text-decoration: underline; /* tag para pôr a linha embaixo da palavra*/
+  
+}
+h3{color: #0000cc;
+font-style: italic;
+
+}
+
+table{ width: 600px;
+}
+
+tr {
+  background-color:#fff8dc;
+}
+tr:hover /*tag para por cor para passar o mouse e mudar de cor*/ {
+ background-color:#0099cc
+}
+th{
+ background-color: #4682b4;
+  color:#fff;
+}
